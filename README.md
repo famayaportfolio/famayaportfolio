@@ -9,7 +9,6 @@
   - [Test](https://github.com1/4chan-ImaAnalysiddleware-C964) <b><i></b></i>
 - <b>Microsoft Active Directory Lab</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.commadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/JwipeShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakoPS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShelity-FIM)
 - <b>AWS Lab</b>
@@ -17,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakoerPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadh-Email)
 - <b>Python</b>
-  - [Password Checker)](https://github.com/famayaportfolio/Password_Checker)
+  - [Password Checker)](https://github.com/famayaportfolio/Password_Checker
 
 <h2>👨‍💻 Certifications:</h2>
  </b>
