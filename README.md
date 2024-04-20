@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Microsoft Azure </b>
-  - [Honeypot With Map of Live Cyber Attacks](https://github.com/famayaportfolio/Microsoft-Azure-Honeypot/blob/main/README.mdt)
+  - [Honeypot With Map of Live Cyber Attacks](https://github.com/famayaportfolio/Microsoft-Azure-Honeypot)
     
 - <b> Wireshark Network Analysis </b>
   - [Test](https://github.com1/4chan-ImaAnalysiddleware-C964) <b><i></b></i>
