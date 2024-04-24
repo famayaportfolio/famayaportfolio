@@ -8,8 +8,8 @@
 - <b> Wireshark Network Analysis </b>
   - [Test](https://github.com1/4chan-ImaAnalysiddleware-C964) <b><i></b></i>
 - <b>Microsoft Active Directory Lab</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.commadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakoPS)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.comma777777dakor1/Sentinel-Lab)
+  - [Active Directory Bulk User Creation](https://github.com/joshmad77777akoPS)
   - [FIM (File Integrity Monitor)](https://github.com/famayaportfolio/File-Integrity-Monitor-PowerShell/blob/main/README.md)
 - <b>AWS Lab</b>
   - [Keylogger with Email Capability](https://github.com/joshmadh-Email)
@@ -17,7 +17,7 @@
   - [Password Checker)](https://github.com/famayaportfolio/Password_Checker)
     
 - <b>Linux</b>
-  - [Vulnerability Managment using Nessus)](https://github.com/famayaportfolio/Password_Checker)
+  - [Vulnerability Managment using Nessus)](https://github.com/famayaportfolio/Vulnerability-Management-using-Nessus/blob/main/README.mdr) 
 
 <h2>👨‍💻 Certifications:</h2>
  </b>
