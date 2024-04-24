@@ -12,11 +12,12 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakoPS)
   - [FIM (File Integrity Monitor)](https://github.com/famayaportfolio/File-Integrity-Monitor-PowerShell/blob/main/README.md)
 - <b>AWS Lab</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakorterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakoerPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadh-Email)
 - <b>Python</b>
-  - [Password Checker)](https://github.com/famayaportfolio/Password_Checker
+  - [Password Checker)](https://github.com/famayaportfolio/Password_Checker)
+    
+- <b>Linux</b>
+  - [Vulnerability Managment using Nessus)](https://github.com/famayaportfolio/Password_Checker)
 
 <h2>👨‍💻 Certifications:</h2>
  </b>
