@@ -13,8 +13,9 @@
   - [FIM (File Integrity Monitor)](https://github.com/famayaportfolio/File-Integrity-Monitor-PowerShell/blob/main/README.md)
 - <b>AWS Lab</b>
   - [Keylogger with Email Capability](https://github.com/joshmadh-Email)
+    
 - <b>Python</b>
-  - [Password Checker)](https://github.com/famayaportfolio/Password_Checker)
+  - [Password Checker](https://github.com/famayaportfolio/Password_Checker)
     
 - <b>Linux</b>
   - [Vulnerability Managment using Nessus)](https://github.com/famayaportfolio/Vulnerability-Management-using-Nessus/blob/main/README.md) 
