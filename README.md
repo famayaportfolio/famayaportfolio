@@ -17,7 +17,7 @@
   - [Password Checker)](https://github.com/famayaportfolio/Password_Checker)
     
 - <b>Linux</b>
-  - [Vulnerability Managment using Nessus)](https://github.com/famayaportfolio/Vulnerability-Management-using-Nessus/blob/main/README.mdr) 
+  - [Vulnerability Managment using Nessus)](https://github.com/famayaportfolio/Vulnerability-Management-using-Nessus/blob/main/README.md) 
 
 <h2>👨‍💻 Certifications:</h2>
  </b>
