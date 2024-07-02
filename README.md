@@ -1,6 +1,6 @@
-<h1>Hi, I'm Francisco! <br/><a <a href="https://www.linkedin.com/in/francisco-amaya-/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Francisco! <br/><a <a href="https://www.linkedin.com/in/francisco-amaya-/"> IT Professional</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Hands-On Labs/ Projects:</h2>
 
 - <b> Microsoft Azure </b>
   - [Honeypot With Map of Live Cyber Attacks](https://github.com/famayaportfolio/Microsoft-Azure-Honeypot)
