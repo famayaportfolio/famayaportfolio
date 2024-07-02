@@ -33,6 +33,7 @@
   - Microsoft AZ-900
   - Microsoft AZ-104
   - Cisco CCNA
+  - ServiceNow Certified System Administrator (In Lieu)
 
 <h2>👨‍💻 Education:</h2>
 
