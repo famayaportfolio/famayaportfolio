@@ -3,8 +3,9 @@
 <h2>👨‍💻 Hands-On Labs/ Projects:</h2>
 
 - <b> ServiceNow </b>
+  - [Sneaker Spa: Sneaker Cleaning and Restoration Application](https://github.com/famayaportfolio/yporewqreqt)
+  - [Loaner Vehicle Request Application](https://github.com/famayaportfolio/yporqewt)
   - [NextGen Mobile Detailing App](https://github.com/famayaportfolio/ypot)
-
 - <b> Microsoft Azure </b>
   - [Honeypot With Map of Live Cyber Attacks](https://github.com/famayaportfolio/Microsoft-Azure-Honeypot)
     
@@ -28,12 +29,16 @@
 
 
   - compTIA Security+
-  - AWS Cloud Practitioner
+  - AWS Certified Cloud Practitioner
   - Google Cyber Security Professional
-  - Microsoft AZ-900
-  - Microsoft AZ-104
+  - Microsoft Endpoint Administrator- MD-102
+  - Microsoft Azure Aministrator- AZ-104
+  - Microsoft 365 Fundamentals- MS-900
   - Cisco CCNA
-  - ServiceNow Certified System Administrator (In Lieu)
+  - ServiceNow Certified System Administrator
+  - ServiceNow Certified Application Developer (In Lieu)
+  - ServiceNow Micro-Certification- Flow Designer
+
 
 <h2>👨‍💻 Education:</h2>
 
