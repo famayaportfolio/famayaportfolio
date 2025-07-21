@@ -31,10 +31,11 @@
   - compTIA Security+
   - AWS Certified Cloud Practitioner
   - Google Cyber Security Professional
+  - Microsoft Azure AI Engineer Assocaite- AI-102
   - Microsoft Endpoint Administrator- MD-102
   - Microsoft Azure Aministrator- AZ-104
   - Microsoft 365 Fundamentals- MS-900
-  - Cisco CCNA
+  - Microsoft Security Operations Analyst Assocaite- SC-200
   - ServiceNow Certified System Administrator
   - ServiceNow Certified Application Developer (In Lieu)
   - ServiceNow Micro-Certification- Flow Designer
