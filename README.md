@@ -8,6 +8,9 @@
   - [NextGen Mobile Detailing App](https://github.com/famayaportfolio/ypot)
 - <b> Microsoft Azure </b>
   - [Honeypot With Map of Live Cyber Attacks](https://github.com/famayaportfolio/Microsoft-Azure-Honeypot)
+  - [Sneaker Recommendation AI Agent](https://github.com/famayaportfolio/Microsoft-Azure-)
+  - [AU Sneaker Quiz & Trivia Game](https://github.com/famayaportfolio/MicrosoftFDSAFSA)
+  - [Sneaker Matching AI (Find Similar Sneakers)](https://github.com/famayaportfolio/Microsoft-Azure-Honeypot)
     
 - <b> Wireshark Network Analysis </b>
   - [Test](https://github.com1/4chan-ImaAnalysiddleware-C964) <b><i></b></i>
