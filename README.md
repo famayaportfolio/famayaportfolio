@@ -36,6 +36,7 @@
   - Microsoft Azure Aministrator- AZ-104
   - Microsoft 365 Fundamentals- MS-900
   - Microsoft Security Operations Analyst Assocaite- SC-200
+  - Microsoft Identity and Access Administrator Associate SC-300
   - ServiceNow Certified System Administrator
   - ServiceNow Certified Application Developer (In Lieu)
   - ServiceNow Micro-Certification- Flow Designer
@@ -44,7 +45,7 @@
 <h2>👨‍💻 Education:</h2>
 
 - <b> Western Governors University </b>
-  - Bachelors of Science- Computer Science (In Lieu)
+  - Bachelors of Science- Cloud Computing (In Lieu)
 
   
 <h2> 🤳 Connect with me:</h2>
